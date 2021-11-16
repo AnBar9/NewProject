@@ -1,0 +1,14 @@
+{
+  "name": "parsel.config",
+  "version": "1.0.0",
+  "description": "hotel booking website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TOXIN"
+  ],
+  "author": "AnBar9",
+  "license": "ISC"
+}
